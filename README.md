@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bala5071
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently studying MS in ELectrical and Computer Engineering with concentration in Computer Vision, Machine Learning and Algorithms
+- 💞️ I’m interested in Machine Learning, Computer Vision and Data Science
 - 📫 How to reach me balasubramaniamrenganathan@gmail.com
 
 <!---
