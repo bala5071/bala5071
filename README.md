@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bala5071
 - 🌱 MS in Electrical and Computer Engineering with concentration in Computer Vision, Machine Learning and Algorithms
-- 💞️ I’m interested in Machine Learning, Computer Vision and Data Science
+- 💞️ I’m interested in Artificial Intelligence, Machine Learning, and Data Science
 - 📫 How to reach me balasubramaniamrenganathan@gmail.com 
 - Offical Email ID: renganathan.b@northeastern.edu
 
